@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Open bookstore page and lookup for title
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.6 s - in Open bookstore page and lookup for title
