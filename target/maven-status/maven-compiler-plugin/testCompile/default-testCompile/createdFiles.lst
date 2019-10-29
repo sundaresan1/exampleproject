@@ -1,8 +1,0 @@
-stepdefinitions\ProductAPISearchSteps.class
-matchers\TextMatcher.class
-pages\BookInfoPage.class
-services\ProductSearchTests.class
-stepdefinitions\BookInfoUISteps.class
-pages\LookUp.class
-CucumberRunner.class
-pages\NavigateTo.class
